@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\GitHub\krittiyassi\krittiyassi\krittiyassi\bin\Debug\net6.0-windows\krittiyassi.exe
+C:\Users\HP\Documents\GitHub\krittiyassi\krittiyassi\krittiyassi\bin\Debug\net6.0-windows\krittiyassi.deps.json
+C:\Users\HP\Documents\GitHub\krittiyassi\krittiyassi\krittiyassi\bin\Debug\net6.0-windows\krittiyassi.runtimeconfig.json
+C:\Users\HP\Documents\GitHub\krittiyassi\krittiyassi\krittiyassi\bin\Debug\net6.0-windows\krittiyassi.dll
+C:\Users\HP\Documents\GitHub\krittiyassi\krittiyassi\krittiyassi\bin\Debug\net6.0-windows\ref\krittiyassi.dll
+C:\Users\HP\Documents\GitHub\krittiyassi\krittiyassi\krittiyassi\bin\Debug\net6.0-windows\krittiyassi.pdb
+C:\Users\HP\Documents\GitHub\krittiyassi\krittiyassi\krittiyassi\obj\Debug\net6.0-windows\krittiyassi.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\krittiyassi\krittiyassi\krittiyassi\obj\Debug\net6.0-windows\krittiyassi.Form1.resources
+C:\Users\HP\Documents\GitHub\krittiyassi\krittiyassi\krittiyassi\obj\Debug\net6.0-windows\krittiyassi.csproj.GenerateResource.cache
+C:\Users\HP\Documents\GitHub\krittiyassi\krittiyassi\krittiyassi\obj\Debug\net6.0-windows\krittiyassi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\GitHub\krittiyassi\krittiyassi\krittiyassi\obj\Debug\net6.0-windows\krittiyassi.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\GitHub\krittiyassi\krittiyassi\krittiyassi\obj\Debug\net6.0-windows\krittiyassi.AssemblyInfo.cs
+C:\Users\HP\Documents\GitHub\krittiyassi\krittiyassi\krittiyassi\obj\Debug\net6.0-windows\krittiyassi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\krittiyassi\krittiyassi\krittiyassi\obj\Debug\net6.0-windows\krittiyassi.dll
+C:\Users\HP\Documents\GitHub\krittiyassi\krittiyassi\krittiyassi\obj\Debug\net6.0-windows\ref\krittiyassi.dll
+C:\Users\HP\Documents\GitHub\krittiyassi\krittiyassi\krittiyassi\obj\Debug\net6.0-windows\krittiyassi.pdb
+C:\Users\HP\Documents\GitHub\krittiyassi\krittiyassi\krittiyassi\obj\Debug\net6.0-windows\krittiyassi.genruntimeconfig.cache
